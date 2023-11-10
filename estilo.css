@@ -1,0 +1,11 @@
+*{
+   box-sizing: border-box; 
+}
+
+h1{
+   color: blueviolet; 
+}
+
+body{
+    background-color: rgb(188, 186, 190);
+}
